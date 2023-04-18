@@ -28,8 +28,8 @@
   
 
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
-  (Более подробную информацию вы можете увидеть здесь)
+> <a href="[https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx](https://github.com/Skypro-portfolio-Ruslan/My-portfolio/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%962)">Более подробную информацию вы можете увидеть здесь</a>
+  
 
 <p>Выводы (итоги):<p>
 <ol>
