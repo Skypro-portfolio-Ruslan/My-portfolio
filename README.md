@@ -84,4 +84,4 @@
   
 
 ## Контактная информация
-- Email: berning96@mail.ru
+- Email: rus.mavlikaev97@mail.ru
